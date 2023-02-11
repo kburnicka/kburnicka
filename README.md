@@ -1,5 +1,3 @@
- - 👋 Hi, I'm a Computer Science student
- - 🌱 I’m currently learning web development
 
 
 <!---
